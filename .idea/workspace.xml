@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="76952e4d-da4a-48a4-95c8-be11c8389cc3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../.idea/JavaProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LessonProject/Java-Core-Projects-master/CollectionFramework/CollectionFramework-1/.idea/modules/LambdaExpression-3.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LessonProject/Java-Core-Projects-master/Enum-Lesson1/.idea/modules/Enum-Lesson1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LessonProject/Java-Core-Projects-master/Enum-Lesson1/.idea/modules/Enum-Lesson1.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LessonProject/Java-Core-Projects-master/Fayl-Lesson1/files/Muqumiy2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LessonProject/Java-Core-Projects-master/LambdaExpression/LambdaExpression-1/.idea/LambdaExpression-1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LessonProject/Java-Core-Projects-master/OOPs/LessonOOP-0/ILikePizza.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LessonProject/Java-Core-Projects-master/OOPs/LessonOOP-1/ClassObject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LessonProject/Java-Core-Projects-master/OOPs/LessonOOP-2/lessonOOP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LessonProject/Java-Core-Projects-master/OOPs/LessonOOP-3/lessonOOPs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LessonProject/Java-Core-Projects-master/OOPs/LessonOOP-4/LessonOOP-4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ATM_Bankomat-master/.idea/ATM_Bankomat-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DetermineTheDateOfBirth/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DetermineTheDateOfBirth/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DetermineTheDateOfBirth/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FidoProjectNew/.idea/FidoProjectNew.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LeetCode/demo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LeetCode/demo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LeetCode/demo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LeetCode/demo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LeetCode/demo/src/main/java/uz/leetCode/twoSum/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OOP/OOP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OOP/constructor/constructor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectPen/ProjectPen.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectPen/schools.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/example.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../homework_lesson/homework_lesson.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pedigreeNew/src/main/java/uz/pedigree/PedigreeMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../project/IfWhileArrayMatrix.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../textLengthAndATM/.idea/TextLength.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Telegram_Bot/Telegram_Bot.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="29ZBMgw6sojXBlZTsXac5SDWN4z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "dart.analysis.tool.window.visible": "false"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76952e4d-da4a-48a4-95c8-be11c8389cc3" name="Changes" comment="" />
+      <created>1653310682723</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653310682723</updated>
+      <workItem from="1653310685379" duration="20000" />
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
