@@ -21,7 +21,6 @@
       <change afterPath="$PROJECT_DIR$/../../DetermineTheDateOfBirth/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../DetermineTheDateOfBirth/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../FidoProjectNew/.idea/FidoProjectNew.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uz/bepro/copyFile/CopyFiles.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../LeetCode/demo/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../LeetCode/demo/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../LeetCode/demo/.idea/misc.xml" afterDir="false" />
@@ -38,8 +37,7 @@
       <change afterPath="$PROJECT_DIR$/../../textLengthAndATM/.idea/TextLength.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../../Telegram_Bot/Telegram_Bot.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/folder/util/readme3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/folder/util/readme3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/uz/bepro/methodPathName/MainPolly.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uz/bepro/methodPathName/MainPolly.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/uz/bepro/copyFile/CopyFiles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uz/bepro/copyFile/CopyFiles.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -190,7 +188,10 @@
       <workItem from="1653383703642" duration="506000" />
       <workItem from="1653384245522" duration="1744000" />
       <workItem from="1653386119374" duration="136000" />
-      <workItem from="1653394768752" duration="4439000" />
+      <workItem from="1653394768752" duration="4570000" />
+      <workItem from="1653400234385" duration="803000" />
+      <workItem from="1653401067276" duration="6000" />
+      <workItem from="1653401089742" duration="136000" />
     </task>
     <servers />
   </component>
