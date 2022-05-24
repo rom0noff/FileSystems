@@ -9,7 +9,7 @@
       <change afterPath="$PROJECT_DIR$/../../../LessonProject/Java-Core-Projects-master/CollectionFramework/CollectionFramework-1/.idea/modules/LambdaExpression-3.test.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../LessonProject/Java-Core-Projects-master/Enum-Lesson1/.idea/modules/Enum-Lesson1.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../LessonProject/Java-Core-Projects-master/Enum-Lesson1/.idea/modules/Enum-Lesson1.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../LessonProject/Java-Core-Projects-master/Fayl-Lesson1/files/Muqumiy2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LessonProject/Java-Core-Projects-master/Exception-Lesson1/.idea/Exception-Lesson1.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../LessonProject/Java-Core-Projects-master/LambdaExpression/LambdaExpression-1/.idea/LambdaExpression-1.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../LessonProject/Java-Core-Projects-master/OOPs/LessonOOP-0/ILikePizza.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../LessonProject/Java-Core-Projects-master/OOPs/LessonOOP-1/ClassObject.iml" afterDir="false" />
@@ -21,9 +21,17 @@
       <change afterPath="$PROJECT_DIR$/../../DetermineTheDateOfBirth/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../DetermineTheDateOfBirth/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../FidoProjectNew/.idea/FidoProjectNew.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/folder/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/folder/readme1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/folder/readme2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/folder/util/readme3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uz/bepro/lengthText/LengthText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uz/bepro/methodFile/MainPoly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uz/bepro/methodFile/model/FolderAndFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uz/bepro/methodFolder/model/FolderClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uz/bepro/methodPathName/MainPolly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uz/bepro/methodPathName/model/PathNameClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uz/bepro/textFile/TextFile.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../LeetCode/demo/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../LeetCode/demo/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../LeetCode/demo/.idea/misc.xml" afterDir="false" />
@@ -39,6 +47,14 @@
       <change afterPath="$PROJECT_DIR$/../../project/IfWhileArrayMatrix.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../textLengthAndATM/.idea/TextLength.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../../Telegram_Bot/Telegram_Bot.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/filesystem/HelloApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/filesystem/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/filesystem/hello-view.fxml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,8 +69,18 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="29ZBMgw6sojXBlZTsXac5SDWN4z" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -64,15 +90,93 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "dart.analysis.tool.window.visible": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Application.LengthText">
+    <configuration name="FolderClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="uz.bepro.methodFolder.model.FolderClass" />
+      <module name="FileSystem.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uz.bepro.methodFolder.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LengthText" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="uz.bepro.lengthText.LengthText" />
+      <module name="FileSystem.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uz.bepro.lengthText.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainPolly" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="uz.bepro.methodPathName.MainPolly" />
+      <module name="FileSystem.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uz.bepro.methodPathName.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainPoly" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="uz.bepro.methodFile.MainPoly" />
+      <module name="FileSystem.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uz.bepro.methodFile.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TextFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="uz.bepro.textFile.TextFile" />
+      <module name="FileSystem.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uz.bepro.textFile.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LengthText" />
+        <item itemvalue="Application.TextFile" />
+        <item itemvalue="Application.FolderClass" />
+        <item itemvalue="Application.MainPoly" />
+        <item itemvalue="Application.MainPolly" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -81,9 +185,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1653310682723</updated>
-      <workItem from="1653310685379" duration="20000" />
+      <workItem from="1653310685379" duration="564000" />
+      <workItem from="1653311472494" duration="1586000" />
+      <workItem from="1653331596334" duration="4237000" />
+      <workItem from="1653380219792" duration="130000" />
+      <workItem from="1653380635431" duration="20000" />
+      <workItem from="1653380675432" duration="19000" />
+      <workItem from="1653380711992" duration="72000" />
+      <workItem from="1653380794236" duration="70000" />
+      <workItem from="1653380880782" duration="237000" />
+      <workItem from="1653381922568" duration="211000" />
+      <workItem from="1653382219901" duration="414000" />
+      <workItem from="1653382680122" duration="19000" />
+      <workItem from="1653382713451" duration="46000" />
+      <workItem from="1653382780919" duration="347000" />
+      <workItem from="1653383202971" duration="158000" />
+      <workItem from="1653383379001" duration="157000" />
+      <workItem from="1653383565498" duration="112000" />
+      <workItem from="1653383703642" duration="506000" />
+      <workItem from="1653384245522" duration="1744000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
