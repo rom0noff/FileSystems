@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class LengthText {
     public static void main(String[] args) {
-        lengthMethod("folder/util/readme3.txt");
+        lengthMethod("folder/readme.txt");
     }
 
     public static void lengthMethod(String pathName){
@@ -14,19 +14,28 @@ public class LengthText {
         File file = new File(pathName);
         try{
             scanner = new Scanner(new File(pathName));
-            int num = 0;
+            int max = 0;
+            String text1 = "";
             while (scanner.hasNext()){
                 String str = scanner.nextLine();
                 String [] st1 = str.split(" ");
-                int [] sum = new int[st1.length+1];
-                for (int j = 0; j < str.length()+1; j++) {
+                int [] sum = new int[st1.length];
+                for (int j = 0; j < 1; j++) {
+
                     for (int i = 0; i < st1.length; i++) {
                          sum[j] += st1[i].length();
                     }
-                    System.out.println(sum[j]);
-                }
+                    if(max > sum[j]){
 
+                    }else {
+                        max = sum[j];
+                        text1 = str;
+                    }
+
+                }
             }
+            System.out.println("Eng uzuni : " + text1);
+            System.out.println("Uzunligi : " + max);
         }catch (FileNotFoundException e){
             e.printStackTrace();
         }

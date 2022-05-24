@@ -21,17 +21,6 @@
       <change afterPath="$PROJECT_DIR$/../../DetermineTheDateOfBirth/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../DetermineTheDateOfBirth/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../FidoProjectNew/.idea/FidoProjectNew.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/folder/readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/folder/readme1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/folder/readme2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/folder/util/readme3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uz/bepro/lengthText/LengthText.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uz/bepro/methodFile/MainPoly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uz/bepro/methodFile/model/FolderAndFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uz/bepro/methodFolder/model/FolderClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uz/bepro/methodPathName/MainPolly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uz/bepro/methodPathName/model/PathNameClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uz/bepro/textFile/TextFile.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../LeetCode/demo/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../LeetCode/demo/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../LeetCode/demo/.idea/misc.xml" afterDir="false" />
@@ -47,14 +36,8 @@
       <change afterPath="$PROJECT_DIR$/../../project/IfWhileArrayMatrix.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../textLengthAndATM/.idea/TextLength.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../../Telegram_Bot/Telegram_Bot.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/filesystem/HelloApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/filesystem/HelloController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/filesystem/hello-view.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/uz/bepro/lengthText/LengthText.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uz/bepro/lengthText/LengthText.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -204,6 +187,8 @@
       <workItem from="1653383565498" duration="112000" />
       <workItem from="1653383703642" duration="506000" />
       <workItem from="1653384245522" duration="1744000" />
+      <workItem from="1653386119374" duration="136000" />
+      <workItem from="1653394768752" duration="1137000" />
     </task>
     <servers />
   </component>
