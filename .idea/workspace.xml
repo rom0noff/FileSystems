@@ -21,6 +21,7 @@
       <change afterPath="$PROJECT_DIR$/../../DetermineTheDateOfBirth/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../DetermineTheDateOfBirth/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../FidoProjectNew/.idea/FidoProjectNew.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uz/bepro/copyFile/CopyFiles.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../LeetCode/demo/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../LeetCode/demo/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../LeetCode/demo/.idea/misc.xml" afterDir="false" />
@@ -37,7 +38,8 @@
       <change afterPath="$PROJECT_DIR$/../../textLengthAndATM/.idea/TextLength.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../../Telegram_Bot/Telegram_Bot.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/uz/bepro/lengthText/LengthText.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uz/bepro/lengthText/LengthText.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/folder/util/readme3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/folder/util/readme3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/uz/bepro/methodPathName/MainPolly.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uz/bepro/methodPathName/MainPolly.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +86,20 @@
     &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.LengthText">
+  <component name="RunManager" selected="Application.CopyFiles">
+    <configuration name="CopyFiles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="uz.bepro.copyFile.CopyFiles" />
+      <module name="FileSystem.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uz.bepro.copyFile.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FolderClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="uz.bepro.methodFolder.model.FolderClass" />
       <module name="FileSystem.main" />
@@ -104,19 +119,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="uz.bepro.lengthText.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainPolly" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="uz.bepro.methodPathName.MainPolly" />
-      <module name="FileSystem.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="uz.bepro.methodPathName.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CopyFiles" />
         <item itemvalue="Application.LengthText" />
         <item itemvalue="Application.TextFile" />
         <item itemvalue="Application.FolderClass" />
         <item itemvalue="Application.MainPoly" />
-        <item itemvalue="Application.MainPolly" />
       </list>
     </recent_temporary>
   </component>
@@ -188,7 +190,7 @@
       <workItem from="1653383703642" duration="506000" />
       <workItem from="1653384245522" duration="1744000" />
       <workItem from="1653386119374" duration="136000" />
-      <workItem from="1653394768752" duration="1137000" />
+      <workItem from="1653394768752" duration="4439000" />
     </task>
     <servers />
   </component>

@@ -1,3 +1,2 @@
-Salom Dunyo
-Men Java
-Be Pro
+Salom Men Java
+I am Java Developer
