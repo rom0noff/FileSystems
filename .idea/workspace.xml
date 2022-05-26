@@ -21,12 +21,6 @@
       <change afterPath="$PROJECT_DIR$/../../DetermineTheDateOfBirth/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../DetermineTheDateOfBirth/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../FidoProjectNew/.idea/FidoProjectNew.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/folder/utilOxford/Oxford.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/folder/utilOxford/scratch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uz/bepro/lenghtLetter/LetterLenght.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uz/bepro/lugatmap/BuferSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uz/bepro/lugatmap/MapLugat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uz/bepro/twoTextFile/TwoTextFile.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../LeetCode/demo/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../LeetCode/demo/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../LeetCode/demo/.idea/misc.xml" afterDir="false" />
@@ -45,9 +39,8 @@
       <change afterPath="$PROJECT_DIR$/../../../../PUBG_UC_BOT-master/keyboards/inline/ucList.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../../Telegram_Bot/Telegram_Bot.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/folder/readme1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/folder/readme1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/folder/util/readme3(copy).txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/uz/bepro/methodFolder/model/FolderClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uz/bepro/searchFolderFile/FolderClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/folder/utilOxford/Oxford.txt" beforeDir="false" afterPath="$PROJECT_DIR$/folder/utilOxford/Oxford.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/uz/bepro/lugatmap/MapLugat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uz/bepro/lugatmap/MapLugat.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,13 +88,13 @@
     &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.BuferSample">
+  <component name="RunManager" selected="Application.uz.bepro.lugatmap.MapLugat">
     <configuration name="BuferSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="uz.bepro.lugatmap.BuferSample" />
+      <option name="MAIN_CLASS_NAME" value="uz.bepro.jsonBuffer.BuferSample" />
       <module name="FileSystem.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="uz.bepro.lugatmap.*" />
+          <option name="PATTERN" value="uz.bepro.jsonBuffer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,7 +120,7 @@
       <module name="FileSystem.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="uz.bepro.lugatmap.*" />
+          <option name="PATTERN" value="uz.bepro.jsonBuffer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,9 +156,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BuferSample" />
+        <item itemvalue="Application.uz.bepro.BuferSample" />
         <item itemvalue="Application.LetterLenght" />
-        <item itemvalue="Application.MapLugat" />
+        <item itemvalue="Application.uz.bepro.lugatmap.MapLugat" />
         <item itemvalue="Application.uz.bepro.searchFolderFile.FolderClass" />
         <item itemvalue="Application.TwoTextFile" />
       </list>
@@ -207,7 +200,7 @@
       <workItem from="1653411273092" duration="256000" />
       <workItem from="1653460673011" duration="6982000" />
       <workItem from="1653484185394" duration="2731000" />
-      <workItem from="1653557427211" duration="877000" />
+      <workItem from="1653557427211" duration="7376000" />
     </task>
     <servers />
   </component>
